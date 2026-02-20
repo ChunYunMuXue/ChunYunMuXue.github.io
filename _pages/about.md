@@ -33,7 +33,7 @@ I’m currently a junior majoring in Software Engineering at Northwestern Polyte
 
 # 🔥 News
 - *2026.01*:&nbsp;🎉 I won the qualification of 50th ICPC world final in hangzhou, and submitted two co-first paper for ACL'26 and ICML'26. Wish good luck. 🙏🙏
-- *2025.12*:&nbsp;🎉 I finally get the <font color="red">**Grandmaster**</font> in codeforces,fulfilling a dream I had held since the first time I was introduced to competitive programming. 
+- *2025.12*:&nbsp;🎉 I finally get the <span style="color:red; font-weight:bold;">Grandmaster</span> in codeforces,fulfilling a dream I had held since the first time I was introduced to competitive programming. 
 - *2025.12*:&nbsp;🥇 I won my first gold medal of ICPC in shenyang site,and then got gold medal in shanghai and chongqing (ccpc) in the same month.
 - *2025.11*:&nbsp;🥈 I won second place in the International Advanced Robot & Simulation Technology Competition Competition in Qingdao.  This is the second time I have won it.
 - *2025.07*:&nbsp;📝 Our paper [FineQuest](https://arxiv.org/abs/2509.11796) have been accept by MM'25. 
