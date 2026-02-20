@@ -82,6 +82,17 @@ Paper will release after reviewing
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">25/07 MM'25 (Oral) </div><img src='images/p4.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**FineQuest: Adaptive Knowledge-Assisted Sports Video Understanding via Agent-of-Thoughts Reasoning**](https://dl.acm.org/doi/abs/10.1145/3746027.3754885)
+
+Haodong Chen, Haojian Huang, **XinXiang Yin**, Dian Shao
+
+[**Paper**](https://arxiv.org/abs/2509.11796)
+</div>
+</div>
+
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
