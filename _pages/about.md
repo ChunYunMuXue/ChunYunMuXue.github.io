@@ -41,7 +41,7 @@ I’m currently a junior majoring in Software Engineering at Northwestern Polyte
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/p1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">26/02 arXiv</div><img src='images/p1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**Show, Don't Tell: Morphing Latent Reasoning into Image Generation**](https://arxiv.org/abs/2602.02227)
@@ -52,6 +52,31 @@ I’m currently a junior majoring in Software Engineering at Northwestern Polyte
 </span>, Wen-Jie Shu, Hongfei Zhang, Zixin Zhang, Chenfei Liao, Litao Guo, Qifeng Chen, Ying-Cong Chen
 
 [**Paper**](https://arxiv.org/abs/2602.02227) | [**Project**](https://github.com/EnVision-Research/LatentMorph)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">26/02 ACL'26 reviewing</div><img src='images/p2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**CodeHacker: Automated Test Case Generation for Detecting Vulnerabilities in Competitive Programming Solutions**
+<span style="text-decoration: underline;">
+  Jingwei Shi*,
+  <span style="font-weight: bold;">Xinxiang Yin</span>*,
+  Jing Huang*
+</span>, Jinman Zhao, Shengyu Tao
+
+Paper will release after reviewing 
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">26/02 ACL'26 reviewing</div><img src='images/p3.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**LETGAMES: An LLM-Powered Gamified Approach to Cognitive Training for Patients with Cognitive Impairment**
+Jingwei Shi, Shengyu Tao, **Xinxiang Yin**, Chen Huang, Wenqiang Lei, See-Kiong Ng
+
+Paper will release after reviewing 
 </div>
 </div>
 
