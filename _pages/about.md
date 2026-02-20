@@ -33,7 +33,7 @@ The photo on the web was taken when I had the opportunity to speak at the 49th I
 
 🎓 **I am currently preparing and working hard on my applications for future Master’s/Ph.D. programs. And wish some good luck.**  
 
-🎈 You can see my <a href="CV.pdf" target="_blank">CV here</a>.
+🎈 **You can see my <a href="CV.pdf" target="_blank">CV here</a>**.
 
 # 🔥 News
 - *2026.01*:&nbsp;🎉 I won the qualification of 50th ICPC world final in hangzhou, and submitted two co-first paper for ACL'26 and ICML'26. Wish good luck. 🙏🙏
