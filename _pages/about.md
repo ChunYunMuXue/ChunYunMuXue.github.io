@@ -17,9 +17,18 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+# 👋 About me
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+Hello! I’m Yinxinxiang (尹新祥) 👋
+I’m currently a junior majoring in Software Engineering at Northwestern Polytechnical University (NPU).
+
+🧠 Since childhood, I have been enthusiastic about algorithmic problem solving and have devoted significant time to competitive programming, including OI and XCPC. These experiences trained me to think rigorously and systematically. The photo on the left was taken when I had the opportunity to speak at the 49th ICPC Nanjing Regional Contest.
+
+🔬 In recent years, I have gradually begun exploring potential research directions. I was fortunate to study Computer Vision under the guidance of Prof. Shaodian, and later learned Randomized Numerical Linear Algebra for Machine Learning under Prof. Liao Zhenyu. Through these experiences, I started to reflect more carefully on the mathematical structures and theoretical foundations behind modern AI systems.
+
+📚 I am still in the process of exploring my long-term research direction. At this stage, I find myself particularly drawn to Learning Theory, as I hope to gradually build a deeper understanding of the principles underlying artificial intelligence — not only how models achieve strong empirical performance, but why they generalize.
+
+🎓 I am currently preparing and working hard on my applications for future Master’s/Ph.D. programs. And wish some good luck 😭. 
 
 
 # 🔥 News
