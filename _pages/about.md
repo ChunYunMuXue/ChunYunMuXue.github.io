@@ -94,16 +94,32 @@ Haodong Chen, Haojian Huang, **XinXiang Yin**, Dian Shao
 </div>
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024, 2025* National Scholarship for Undergraduate Students, awarded by the Ministry of Education of the People’s Republic of China (highest national-level undergraduate scholarship).
+
+- *2026.11* (Expected) International Collegiate Programming Contest (ICPC) World Finals
+> Annually, only 16 teams from China advance to the World Finals, the highest-level event in collegiate programming.
+
+- *2025.12* ICPC (Shanghai Site) — Gold Medal (10th Place), earned qualification for the World Finals.
+
+- *2025.12* ICPC (Shenyang Site) — Gold Medal.
+
+- *2025.12* China Collegiate Programming Contest (Chongqing Site) — Gold Medal.
+
+- *2021* National Olympiad in Informatics for Secondary School Students (NOIP) - First Prize 
+
+- *2024, 2025* International Advanced Robotics and Simulation Robot Contest — Gold Medal (2nd Place).
+
+- *2024, 2025* Shaanxi Provincial College Programming Contes — Champion.
+
+- *2025* National Programming Competitions 
+  - Baidu Star Programming Contest - Gold Medal,
+  - Blue Bridge Cup National Software and Information Technology Talent Competition - First Prize,
+  - MatiBei Cup National Collegiate Programming Contest - First Prize.
+  - RAICOM Robot Developer Competition - Gold Medal(2nd) 
+
+- *2024* National Collegiate Mathematical Modeling Contest — Provincial First Prize.
+
+- *2024, 2025* Mathematical Contest in Modeling (MCM/ICM) — Honorable Mention.
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2023.06 - now*, Software Engineering at Northwestern Polytechnical University
