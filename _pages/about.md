@@ -93,7 +93,7 @@ Haodong Chen, Haojian Huang, **XinXiang Yin**, Dian Shao
 </div>
 </div>
 
-# 🎖️ Honors
+# 🎖️ Honors and Awards
 - *2024, 2025* &nbsp;**National Scholarship for Undergraduate Students**
 
 - *2026.02* &nbsp;**International Collegiate Programming Contest (ICPC) World Finalist**
