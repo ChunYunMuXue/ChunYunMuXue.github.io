@@ -93,7 +93,7 @@ Haodong Chen, Haojian Huang, **XinXiang Yin**, Dian Shao
 </div>
 </div>
 
-# 🎖 Honors and Awards
+# 🎖️ Honors and Awards
 - *2024, 2025* National Scholarship for Undergraduate Students, awarded by the Ministry of Education of the People’s Republic of China (highest national-level undergraduate scholarship).
 
 - *2026.11* (Expected) International Collegiate Programming Contest (ICPC) World Finals
