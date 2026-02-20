@@ -19,11 +19,11 @@ redirect_from:
 
 # 👋 About me
 
-**Hello! I’m Yinxinxiang (尹新祥) 👋 **
+**Hello! I’m Yinxinxiang (尹新祥) 👋**
 
-I’m currently a junior majoring in Software Engineering at Northwestern Polytechnical University (NPU).
+I’m currently a junior majoring in Software Engineering at **Northwestern Polytechnical University (NPU).**
 
-🧠 Since childhood, I have been enthusiastic about algorithmic problem solving and have devoted significant time to competitive programming, including **OI and XCPC🎈**. These experiences trained me to think rigorously and systematically. 
+🧠 **Since childhood, I have been enthusiastic about algorithmic problem solving and have devoted significant time to competitive programming, including OI and XCPC🎈**. These experiences trained me to think rigorously and systematically. 
 
 The photo on the web was taken when I had the opportunity to speak at the 49th ICPC Nanjing Regional Contest.
 
@@ -31,7 +31,7 @@ The photo on the web was taken when I had the opportunity to speak at the 49th I
 
 📚 **I am still exploring my long-term research interests.** While I remain open to different possibilities, **I am currently most interested in Learning Theory**, as I hope to better understand the mathematical foundations of artificial intelligence — especially the question of why modern models generalize so well.
 
-🎓 I am currently preparing and working hard on my applications for future Master’s/Ph.D. programs. And wish some good luck.  
+🎓 **I am currently preparing and working hard on my applications for future Master’s/Ph.D. programs. And wish some good luck.**  
 
 
 # 🔥 News
