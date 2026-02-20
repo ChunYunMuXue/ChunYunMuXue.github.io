@@ -96,7 +96,7 @@ Haodong Chen, Haojian Huang, **XinXiang Yin**, Dian Shao
 # 🎖️ Honors and Awards
 - *2024, 2025* &nbsp;**National Scholarship for Undergraduate Students**
 
-- *2026.11* &nbsp;**(Expected) International Collegiate Programming Contest (ICPC) World Finals**
+- *2026.02* &nbsp;**International Collegiate Programming Contest (ICPC) World Finalist**
 > Annually, only 16 teams from China advance to the World Finals, the highest-level event in collegiate programming.
 
 - *2025.12* &nbsp;**ICPC (Shanghai Site) — Gold Medal (10th Place)**, earned qualification for the World Finals.
