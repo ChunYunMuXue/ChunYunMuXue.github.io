@@ -93,6 +93,8 @@ Haodong Chen, Haojian Huang, **XinXiang Yin**, Dian Shao
 </div>
 </div>
 
+<span class='anchor' id='-honors-and-awards'></span>
+
 # 🎖️ Honors and Awards
 - *2024, 2025* &nbsp;**National Scholarship for Undergraduate Students**
 
