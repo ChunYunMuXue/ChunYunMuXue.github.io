@@ -44,7 +44,7 @@ I’m currently a junior majoring in Software Engineering at Northwestern Polyte
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/p1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Show, Don't Tell: Morphing Latent Reasoning into Image Generation](https://arxiv.org/abs/2602.02227)
+[**Show, Don't Tell: Morphing Latent Reasoning into Image Generation**](https://arxiv.org/abs/2602.02227)
 
 <span style="text-decoration: underline;">
   <span style="font-weight: bold;">Xinxiang Yin</span>* ,
