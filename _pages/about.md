@@ -27,7 +27,7 @@ I’m currently a junior majoring in Software Engineering at **Northwestern Poly
 
 The photo on the web was taken when I had the opportunity to speak at the 49th ICPC Nanjing Regional Contest.
 
-🔬 In recent years, I have gradually begun exploring potential research directions. I was fortunate to study **Computer Vision** under the guidance of **[Prof.Shaodian](https://teacher.nwpu.edu.cn/shaodian.html)** and learned some knowledge of **Randomized Numerical Linear Algebra for Machine Learning** under **[Prof. Liao Zhenyu](https://zhenyu-liao.github.io/)**. Through these experiences, I started to reflect more carefully on the mathematical structures and theoretical foundations behind modern AI systems.
+🔬 In recent years, I have gradually begun exploring potential research directions. I was fortunate to **study Computer Vision under the guidance of [Prof.Shaodian](https://teacher.nwpu.edu.cn/shaodian.html)** and **learned some knowledge of Randomized Numerical Linear Algebra for Machine Learning under [Prof. Liao Zhenyu](https://zhenyu-liao.github.io/)**. Through these experiences, I started to reflect more carefully on the mathematical structures and theoretical foundations behind modern AI systems.
 
 📚 **I am still exploring my long-term research interests.** While I remain open to different possibilities, **I am currently most interested in Learning Theory**, as I hope to better understand the mathematical foundations of artificial intelligence — especially the question of why modern models generalize so well.
 
