@@ -28,7 +28,7 @@ I’m currently a junior majoring in Software Engineering at Northwestern Polyte
 
 📚 I am still exploring my long-term research interests. While I remain open to different possibilities, I am currently most interested in Learning Theory, as I hope to better understand the mathematical foundations of artificial intelligence — especially the question of why modern models generalize so well.
 
-🎓 I am currently preparing and working hard on my applications for future Master’s/Ph.D. programs. And wish some good luck 😭. 
+🎓 I am currently preparing and working hard on my applications for future Master’s/Ph.D. programs. And wish some good luck.  
 
 
 # 🔥 News
