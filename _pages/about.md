@@ -94,32 +94,32 @@ Haodong Chen, Haojian Huang, **XinXiang Yin**, Dian Shao
 </div>
 
 # 🎖️ Honors and Awards
-- *2024, 2025* National Scholarship for Undergraduate Students, awarded by the Ministry of Education of the People’s Republic of China (highest national-level undergraduate scholarship).
+- *2024, 2025* &nbsp;**National Scholarship for Undergraduate Students**
 
-- *2026.11* (Expected) International Collegiate Programming Contest (ICPC) World Finals
+- *2026.11* &nbsp;**(Expected) International Collegiate Programming Contest (ICPC) World Finals**
 > Annually, only 16 teams from China advance to the World Finals, the highest-level event in collegiate programming.
 
-- *2025.12* ICPC (Shanghai Site) — Gold Medal (10th Place), earned qualification for the World Finals.
+- *2025.12* &nbsp;**ICPC (Shanghai Site) — Gold Medal (10th Place)**, earned qualification for the World Finals.
 
-- *2025.12* ICPC (Shenyang Site) — Gold Medal.
+- *2025.12* &nbsp;**ICPC (Shenyang Site) — Gold Medal**.
 
-- *2025.12* China Collegiate Programming Contest (Chongqing Site) — Gold Medal.
+- *2025.12* &nbsp;**China Collegiate Programming Contest (Chongqing Site) — Gold Medal**.
 
-- *2021* National Olympiad in Informatics for Secondary School Students (NOIP) - First Prize 
+- *2021* &nbsp;**National Olympiad in Informatics for Secondary School Students (NOIP) - First Prize** 
 
-- *2024, 2025* International Advanced Robotics and Simulation Robot Contest — Gold Medal (2nd Place).
+- *2024, 2025* &nbsp;**International Advanced Robotics and Simulation Robot Contest — Gold Medal (2nd Place)**.
 
-- *2024, 2025* Shaanxi Provincial College Programming Contes — Champion.
+- *2024, 2025* &nbsp;**Shaanxi Provincial College Programming Contes — Champion**.
 
-- *2025* National Programming Competitions 
-  - Baidu Star Programming Contest - Gold Medal,
-  - Blue Bridge Cup National Software and Information Technology Talent Competition - First Prize,
-  - MatiBei Cup National Collegiate Programming Contest - First Prize.
-  - RAICOM Robot Developer Competition - Gold Medal(2nd) 
+- *2025* &nbsp;National Programming Competitions 
+  - &nbsp;Baidu Star Programming Contest - Gold Medal,
+  - &nbsp;Blue Bridge Cup National Software and Information Technology Talent Competition - First Prize,
+  - &nbsp;MatiBei Cup National Collegiate Programming Contest - First Prize.
+  - &nbsp;RAICOM Robot Developer Competition - Gold Medal(2nd) 
 
-- *2024* National Collegiate Mathematical Modeling Contest — Provincial First Prize.
+- *2024* &nbsp;National Collegiate Mathematical Modeling Contest — Provincial First Prize.
 
-- *2024, 2025* Mathematical Contest in Modeling (MCM/ICM) — Honorable Mention.
+- *2024, 2025* &nbsp;Mathematical Contest in Modeling (MCM/ICM) — Honorable Mention.
 
 # 📖 Educations
-- *2023.06 - now*, Software Engineering at Northwestern Polytechnical University
+- *2023.06 - now*, &nbsp;Software Engineering at Northwestern Polytechnical University
