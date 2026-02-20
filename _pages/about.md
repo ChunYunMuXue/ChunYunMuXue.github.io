@@ -33,6 +33,7 @@ I’m currently a junior majoring in Software Engineering at Northwestern Polyte
 
 # 🔥 News
 - *2026.01*: &nbsp;🎉 I won the qualification of 50th ICPC world final in hangzhou, and submitted two co-first paper for ACL'26 and ICML'26. Wish good luck. 🙏🙏
+- *2025.12*: &nbsp;🎉 I finally get the \textcolor{red}{Grandmaster} in codeforces,fulfilling a dream I had held since the first time I was introduced to competitive programming. 
 - *2025.12*: &nbsp;🥇 I won my first gold medal of ICPC in shenyang site,and then got gold medal in shanghai and chongqing (ccpc) in the same month.
 - *2025.12*: &nbsp;🥈 I won second place in the International Advanced Robot & Simulation Technology Competition Competition in Qingdao.  This is the second time I have won it.
 - *2025.07*:  📝 Our paper [FineQuest](https://arxiv.org/abs/2509.11796) have been accept by MM'25. 
@@ -48,7 +49,6 @@ I’m currently a junior majoring in Software Engineering at Northwestern Polyte
 **Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
 
