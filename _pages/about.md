@@ -59,9 +59,10 @@ I’m currently a junior majoring in Software Engineering at Northwestern Polyte
 <div class='paper-box-text' markdown="1">
 
 **CodeHacker: Automated Test Case Generation for Detecting Vulnerabilities in Competitive Programming Solutions**
+
 <span style="text-decoration: underline;">
-  Jingwei Shi*,
-  <span style="font-weight: bold;">Xinxiang Yin</span>*,
+  Jingwei Shi* ,
+  <span style="font-weight: bold;">Xinxiang Yin</span>* ,
   Jing Huang*
 </span>, Jinman Zhao, Shengyu Tao
 
@@ -74,6 +75,7 @@ Paper will release after reviewing
 <div class='paper-box-text' markdown="1">
 
 **LETGAMES: An LLM-Powered Gamified Approach to Cognitive Training for Patients with Cognitive Impairment**
+
 Jingwei Shi, Shengyu Tao, **Xinxiang Yin**, Chen Huang, Wenqiang Lei, See-Kiong Ng
 
 Paper will release after reviewing 
