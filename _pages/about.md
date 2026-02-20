@@ -46,7 +46,10 @@ I’m currently a junior majoring in Software Engineering at Northwestern Polyte
 
 [Show, Don't Tell: Morphing Latent Reasoning into Image Generation](https://arxiv.org/abs/2602.02227)
 
-<u>**Xinxiang Yin\***, Harold Haodong Chen\*</u>, Wen-Jie Shu, Hongfei Zhang, Zixin Zhang, Chenfei Liao, Litao Guo, Qifeng Chen, Ying-Cong Chen
+<span style="text-decoration: underline;">
+  <span style="font-weight: bold;">Xinxiang Yin</span>* ,
+  Harold Haodong Chen*
+</span>, Wen-Jie Shu, Hongfei Zhang, Zixin Zhang, Chenfei Liao, Litao Guo, Qifeng Chen, Ying-Cong Chen
 
 [**Paper**](https://arxiv.org/abs/2602.02227) | [**Project**](https://github.com/EnVision-Research/LatentMorph)
 </div>
