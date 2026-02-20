@@ -26,7 +26,7 @@ I’m currently a junior majoring in Software Engineering at Northwestern Polyte
 
 🔬 In recent years, I have gradually begun exploring potential research directions. I was fortunate to study Computer Vision under the guidance of Prof. Shaodian, and later learned Randomized Numerical Linear Algebra for Machine Learning under Prof. Liao Zhenyu. Through these experiences, I started to reflect more carefully on the mathematical structures and theoretical foundations behind modern AI systems.
 
-📚 I am still in the process of exploring my long-term research direction. At this stage, I find myself particularly drawn to Learning Theory, as I hope to gradually build a deeper understanding of the principles underlying artificial intelligence — not only how models achieve strong empirical performance, but why they generalize.
+📚 I am still exploring my long-term research interests. While I remain open to different possibilities, I am currently most interested in Learning Theory, as I hope to better understand the mathematical foundations of artificial intelligence — especially the question of why modern models generalize so well.
 
 🎓 I am currently preparing and working hard on my applications for future Master’s/Ph.D. programs. And wish some good luck 😭. 
 
