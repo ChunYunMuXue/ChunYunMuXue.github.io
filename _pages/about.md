@@ -22,7 +22,7 @@ redirect_from:
 Hello! I’m Yinxinxiang (尹新祥) 👋
 I’m currently a junior majoring in Software Engineering at Northwestern Polytechnical University (NPU).
 
-🧠 Since childhood, I have been enthusiastic about algorithmic problem solving and have devoted significant time to competitive programming, including **OI and XCPC**. These experiences trained me to think rigorously and systematically. The photo on the left was taken when I had the opportunity to speak at the 49th ICPC Nanjing Regional Contest.
+🧠 Since childhood, I have been enthusiastic about algorithmic problem solving and have devoted significant time to competitive programming, including **OI and XCPC**. These experiences trained me to think rigorously and systematically. The photo on the web was taken when I had the opportunity to speak at the 49th ICPC Nanjing Regional Contest.
 
 🔬 In recent years, I have gradually begun exploring potential research directions. I was fortunate to study **Computer Vision** under the guidance of [Prof.Shaodian](https://teacher.nwpu.edu.cn/shaodian.html) and learned some knowledge of **Randomized Numerical Linear Algebra for Machine Learning** under [Prof. Liao Zhenyu](https://zhenyu-liao.github.io/). Through these experiences, I started to reflect more carefully on the mathematical structures and theoretical foundations behind modern AI systems.
 
@@ -124,4 +124,4 @@ Haodong Chen, Haojian Huang, **XinXiang Yin**, Dian Shao
 - *2024, 2025* &nbsp;Mathematical Contest in Modeling (MCM/ICM) — Honorable Mention.
 
 # 📖 Educations
-- *2023.06 - now*, &nbsp;Software Engineering at Northwestern Polytechnical University
+- *2023.09 - now*, &nbsp;Software Engineering at Northwestern Polytechnical University
