@@ -11,7 +11,7 @@ redirect_from:
 {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
 {% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
+{% assign gsDataBaseUrl = "https://raw.g·1ithubusercontent.com/" | append: site.repository | append: "/" %}
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
@@ -33,7 +33,7 @@ The photo on the web was taken when I had the opportunity to speak at the 49th I
 
 🎓 **I am currently preparing and working hard on my applications for future Master’s/Ph.D. programs. And wish some good luck.**  
 
-🎈 **You can see my <a href="CV.pdf" target="_blank">CV here</a>**.
+🎈 **You can see my <a href="CV.pdf" target="_blank">CV here</a>**. Feel free to contact me at yinxinxiang24@gmail.com to discuss anything.
 
 # 🔥 News
 - *2026.01*:&nbsp;🎉 I won the qualification of 50th ICPC world final in hangzhou, and submitted two co-first paper for ACL'26 and ICML'26. Wish good luck. 🙏🙏
