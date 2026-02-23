@@ -45,7 +45,7 @@ The photo on the web was taken when I had the opportunity to speak at the 49th I
 
 # 📝 Publications 
 
-> * and _ means equal controbution
+> \* and _ means equal controbution
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">26/02 arXiv</div><img src='images/p1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
