@@ -64,7 +64,7 @@ The photo on the web was taken when I had the opportunity to speak at the 49th I
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">26/02 ACL'26 reviewing</div><img src='images/p2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**CodeHacker: Automated Test Case Generation for Detecting Vulnerabilities in Competitive Programming Solutions**
+[**CodeHacker: Automated Test Case Generation for Detecting Vulnerabilities in Competitive Programming Solutions**](https://arxiv.org/pdf/2602.20213)
 
 <span style="text-decoration: underline;">
   Jingwei Shi* ,
@@ -72,7 +72,7 @@ The photo on the web was taken when I had the opportunity to speak at the 49th I
   Jing Huang*
 </span>, Jinman Zhao, Shengyu Tao
 
-Paper will release after reviewing 
+[**Paper**](https://arxiv.org/pdf/2602.20213) 
 </div>
 </div>
 
