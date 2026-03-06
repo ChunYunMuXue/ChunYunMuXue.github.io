@@ -57,7 +57,7 @@ The photo on the web was taken when I had the opportunity to speak at the 49th I
   Harold Haodong Chen*
 </span>, Wen-Jie Shu, Hongfei Zhang, Zixin Zhang, Chenfei Liao, Litao Guo, Qifeng Chen, Ying-Cong Chen
 
-[**Paper**](https://arxiv.org/abs/2602.02227) | [**Project**](https://github.com/EnVision-Research/LatentMorph)
+[**Paper**](https://arxiv.org/abs/2602.02227) | [**Project**](https://github.com/EnVision-Research/LatentMorph) | [**Report**](https://mp.weixin.qq.com/s/mK_F4IKvKlaTonpNbVnZng)
 </div>
 </div>
 
@@ -77,7 +77,7 @@ The photo on the web was taken when I had the opportunity to speak at the 49th I
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">26/02 ACL'26 reviewing</div><img src='images/p3.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">26/03 ACL'26 reviewing</div><img src='images/p3.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **LETGAMES: An LLM-Powered Gamified Approach to Cognitive Training for Patients with Cognitive Impairment**
