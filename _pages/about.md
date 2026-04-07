@@ -36,7 +36,7 @@ The photo on the web was taken when I had the opportunity to speak at the 49th I
 🎈 **You can see my <a href="CV.pdf" target="_blank">CV here</a>**. Feel free to contact me at yinxinxiang24@gmail.com to discuss anything.
 
 # 🔥 News
-- *2026.03*:&nbsp;🎉 our work CodeHacker is been accepted as main conference of ACL'26.
+- *2026.04*:&nbsp;📝 our work \textbf{CodeHacker} is been accepted as main conference of ACL'26 !
 - *2026.03*:&nbsp;🎉 our work LatentMorph is been [**reported**](https://mp.weixin.qq.com/s/mK_F4IKvKlaTonpNbVnZng).
 - *2026.01*:&nbsp;🎉 I won the qualification of 50th ICPC world final in hangzhou, and submitted two co-first paper for ACL'26 and ICML'26. Wish good luck. 🙏🙏
 - *2025.12*:&nbsp;🎉 I finally get the <span style="color:red; font-weight:bold;">Grandmaster</span> in codeforces,fulfilling a dream I had held since the first time I was introduced to competitive programming. 
