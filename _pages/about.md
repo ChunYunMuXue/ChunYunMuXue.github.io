@@ -36,6 +36,7 @@ The photo on the web was taken when I had the opportunity to speak at the 49th I
 🎈 **You can see my <a href="CV.pdf" target="_blank">CV here</a>**. Feel free to contact me at yinxinxiang24@gmail.com to discuss anything.
 
 # 🔥 News
+- *2026.03*:&nbsp;🎉 our work CodeHacker is been accepted as main conference of The 64th Annual Meeting of the Association for Computational Linguistics (ACL'26).
 - *2026.03*:&nbsp;🎉 our work LatentMorph is been [**reported**](https://mp.weixin.qq.com/s/mK_F4IKvKlaTonpNbVnZng).
 - *2026.01*:&nbsp;🎉 I won the qualification of 50th ICPC world final in hangzhou, and submitted two co-first paper for ACL'26 and ICML'26. Wish good luck. 🙏🙏
 - *2025.12*:&nbsp;🎉 I finally get the <span style="color:red; font-weight:bold;">Grandmaster</span> in codeforces,fulfilling a dream I had held since the first time I was introduced to competitive programming. 
@@ -48,7 +49,7 @@ The photo on the web was taken when I had the opportunity to speak at the 49th I
 
 > \* and _ means equal controbution
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">26/02 arXiv</div><img src='images/p1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">under reviewing</div><img src='images/p1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**Show, Don't Tell: Morphing Latent Reasoning into Image Generation**](https://arxiv.org/abs/2602.02227)
@@ -62,7 +63,7 @@ The photo on the web was taken when I had the opportunity to speak at the 49th I
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">26/02 ACL'26 reviewing</div><img src='images/p2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL'26 (Main conference)</div><img src='images/p2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**CodeHacker: Automated Test Case Generation for Detecting Vulnerabilities in Competitive Programming Solutions**](https://arxiv.org/pdf/2602.20213)
@@ -78,7 +79,7 @@ The photo on the web was taken when I had the opportunity to speak at the 49th I
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">26/03 ACL'26 reviewing</div><img src='images/p3.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">under reviewing</div><img src='images/p3.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **LETGAMES: An LLM-Powered Gamified Approach to Cognitive Training for Patients with Cognitive Impairment**
@@ -89,7 +90,7 @@ Paper will release after reviewing
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">25/07 MM'25 (Oral) </div><img src='images/p4.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MM'25 (Oral) </div><img src='images/p4.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**FineQuest: Adaptive Knowledge-Assisted Sports Video Understanding via Agent-of-Thoughts Reasoning**](https://dl.acm.org/doi/abs/10.1145/3746027.3754885)
