@@ -1,3 +1,6 @@
 _site/
 push.sh
 .DS_Store
+node_modules/
+.next/
+package-lock.json
