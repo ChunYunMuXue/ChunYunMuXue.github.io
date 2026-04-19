@@ -1,0 +1,56 @@
+[site]
+title = "Yin Xinxiang"
+description = "Personal website of Yin Xinxiang, BEng in Software Engineering at Northwestern Polytechnical University."
+favicon = "/favicon.svg"
+last_updated = "April 19, 2026"
+
+[author]
+name = "Yin Xinxiang"
+title = "BEng in Software Engineering"
+institution = "Northwestern Polytechnical University"
+avatar = "/bio.jpg"
+
+[social]
+email = "yinxinxiang24@gmail.com"
+location = "Shaanxi, China"
+location_url = ""
+location_details = [
+  "School of Software,",
+  "Northwestern Polytechnical University,",
+  "Xi'an, Shaanxi, China"
+]
+google_scholar = "https://scholar.google.com/citations?user=fWBpAoMAAAAJ&hl=en"
+orcid = ""
+github = "https://github.com/ChunYunMuXue"
+linkedin = ""
+
+[features]
+enable_likes = true
+enable_one_page_mode = false
+
+[i18n]
+enabled = false
+
+[[navigation]]
+title = "About"
+type = "page"
+target = "about"
+href = "/"
+
+[[navigation]]
+title = "Publications"
+type = "page"
+target = "publications"
+href = "/publications"
+
+[[navigation]]
+title = "Awards"
+type = "page"
+target = "awards"
+href = "/awards"
+
+[[navigation]]
+title = "Services"
+type = "page"
+target = "services"
+href = "/services"

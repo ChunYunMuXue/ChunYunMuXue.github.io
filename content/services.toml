@@ -1,0 +1,15 @@
+type = "card"
+title = "Services"
+description = "Professional services and community involvement."
+
+[[items]]
+title = "Reviewer"
+subtitle = "ACL and MIR"
+date = "2026"
+content = "Reviewer for theAnnual Meeting of the Association for Computational Linguistics and the joural Machine Intelligence Research"
+
+[[items]]
+title = "Team Leader"
+subtitle = "ICPC team leader"
+date = "2024 - 2026"
+content = "The team leader of the nwpu icpc team,which is a hard work TT "

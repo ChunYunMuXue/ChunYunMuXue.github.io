@@ -1,0 +1,47 @@
+@inproceedings{latentmorph2026,
+  selected={true},
+  title = {Show, Don't Tell: Morphing Latent Reasoning into Image Generation},
+  author = {Xinxiang Yin* and Haodong Chen* and Wen-Jie Shu and Hongfei Zhang and Zixin Zhang and Litao Guo and Qifeng Chen and Ying-Cong Chen},
+  year = {2026},
+  month = feb,
+  booktitle = {arXiv preprint},
+  venue_type = {under-review},
+  conference = {Under Review},
+  description = {A novel framework that seamlessly integrates implicit latent reasoning into the T2I generation process, enhancing Janus-Pro by 16% on GenEval while reducing inference time by 44%.},
+  abstract = {Text-to-image (T2I) generation has achieved remarkable progress, yet existing methods often lack the ability to dynamically reason and refine during generation--a hallmark of human creativity. Current reasoning-augmented paradigms most rely on explicit thought processes, where intermediate reasoning is decoded into discrete text at fixed steps with frequent image decoding and re-encoding, leading to inefficiencies, information loss, and cognitive mismatches. To bridge this gap, we introduce LatentMorph, a novel framework that seamlessly integrates implicit latent reasoning into the T2I generation process. At its core, LatentMorph introduces four lightweight components: (i) a condenser for summarizing intermediate generation states into compact visual memory, (ii) a translator for converting latent thoughts into actionable guidance, (iii) a shaper for dynamically steering next image token predictions, and (iv) an RL-trained invoker for adaptively determining when to invoke reasoning. By performing reasoning entirely in continuous latent spaces, LatentMorph avoids the bottlenecks of explicit reasoning and enables more adaptive self-refinement. Extensive experiments demonstrate that LatentMorph (I) enhances the base model Janus-Pro by 16% on GenEval and 25% on T2I-CompBench; (II) outperforms explicit paradigms (e.g., TwiG) by 15% and 11% on abstract reasoning tasks like WISE and IPV-Txt, (III) while reducing inference time by 44% and token consumption by 51%; and (IV) exhibits 71% cognitive alignment with human intuition on reasoning invocation.},
+  url = {https://arxiv.org/abs/2602.02227},
+  tags = {["Under Review", "T2I Generation", "Latent Reasoning"]},
+  keywords = {Text-to-Image, Latent Reasoning, Image Generation, Visual Reasoning}
+}
+
+@inproceedings{codehacker2026,
+  selected={true},
+  title = {CodeHacker: Automated Test Case Generation for Detecting Vulnerabilities in Competitive Programming Solutions},
+  author = {Jingwei Shi* and Xinxiang Yin* and Jing Huang* and Jinman Zhao and Shengyu Tao},
+  year = {2026},
+  month = feb,
+  booktitle = {ACL 2026},
+  venue_type = {conference},
+  conference = {ACL 2026 Main Conference},
+  description = {Accepted at ACL 2026 Main Conference. An automated agent framework dedicated to generating targeted adversarial test cases that expose latent vulnerabilities in program submissions, improving the True Negative Rate of existing datasets.},
+  abstract = {The evaluation of Large Language Models (LLMs) for code generation relies heavily on the quality and robustness of test cases. However, existing benchmarks often lack coverage for subtle corner cases, allowing incorrect solutions to pass. To bridge this gap, we propose CodeHacker, an automated agent framework dedicated to generating targeted adversarial test cases that expose latent vulnerabilities in program submissions. Mimicking the hack mechanism in competitive programming, CodeHacker employs a multi-strategy approach, including stress testing, anti-hash attacks, and logic-specific targeting to break specific code submissions. To ensure the validity and reliability of these attacks, we introduce a Calibration Phase, where the agent iteratively refines its own Validator and Checker via self-generated adversarial probes before evaluating contestant solutions. Our experiments demonstrate that CodeHacker significantly improves the True Negative Rate (TNR) of existing datasets, effectively filtering out incorrect solutions that were previously accepted. Furthermore, generated adversarial cases prove to be superior training data, boosting the performance of RL-trained models on benchmarks like LiveCodeBench.},
+  url = {https://arxiv.org/abs/2602.20213},
+  tags = {["ACL 2026", "Under Review"]},
+  keywords = {LLM Evaluation, Code Generation, Test Case Generation, Competitive Programming}
+}
+
+@inproceedings{finequest2025,
+  selected={true},
+  title = {FineQuest: Adaptive Knowledge-Assisted Sports Video Understanding via Agent-of-Thoughts Reasoning},
+  author = {Haodong Chen and Haojian Huang and Xinxiang Yin and Dian Shao},
+  year = {2025},
+  month = sep,
+  booktitle = {ACM Multimedia 2025},
+  venue_type = {conference},
+  conference = {ACM MM 2025 (Oral)},
+  description = {Oral presentation at ACM MM 2025. The first training-free framework for sports video understanding that leverages dual-mode reasoning inspired by cognitive science.},
+  abstract = {Video Question Answering (VideoQA) based on Large Language Models (LLMs) has shown potential in general video understanding but faces significant challenges when applied to the inherently complex domain of sports videos. In this work, we propose FineQuest, the first training-free framework that leverages dual-mode reasoning inspired by cognitive science: i) Reactive Reasoning for straightforward sports queries and ii) Deliberative Reasoning for more complex ones. To bridge the knowledge gap between general-purpose models and domain-specific sports understanding, FineQuest incorporates SSGraph, a multimodal sports knowledge scene graph spanning nine sports, which encodes both visual instances and domain-specific terminology to enhance reasoning accuracy. Furthermore, we introduce two new sports VideoQA benchmarks, Gym-QA and Diving-QA, derived from the FineGym and FineDiving datasets, enabling diverse and comprehensive evaluation. FineQuest achieves state-of-the-art performance on these benchmarks as well as the existing SPORTU dataset, while maintains strong general VideoQA capabilities.},
+  url = {https://arxiv.org/abs/2509.11796},
+  tags = {["ACM MM 2025", "Oral Presentation", "Video Understanding"]},
+  keywords = {VideoQA, Sports Video, Agent-of-Thoughts, Multi-Modal Learning}
+}
