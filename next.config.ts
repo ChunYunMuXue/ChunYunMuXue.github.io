@@ -6,7 +6,7 @@ const nextConfig: NextConfig = {
   images: {
     unoptimized: true,
   },
-  /* config options here */
+  turbopack: {},
   webpack: (config) => {
     config.module.rules.push({
       test: /\.bib$/,
