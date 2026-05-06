@@ -26,3 +26,15 @@ id = "news"
 type = "list"
 title = "News"
 source = "news.toml"
+
+[[sections]]
+id = "awards"
+type = "awards"
+title = "Awards"
+source = "awards.toml"
+
+[[sections]]
+id = "services"
+type = "services"
+title = "Services"
+source = "services.toml"

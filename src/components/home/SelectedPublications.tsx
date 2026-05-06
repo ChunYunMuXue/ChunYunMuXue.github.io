@@ -11,6 +11,28 @@ interface SelectedPublicationsProps {
     enableOnePageMode?: boolean;
 }
 
+const conferenceAbbreviations: Record<string, string> = {
+    'International Conference on Machine Learning': 'ICML',
+    'Annual Meeting of the Association for Computational Linguistics Main Conference': 'ACL',
+    'ACM International Conference on Multimedia Oral Presentation': 'ACM MM',
+};
+
+function formatVenue(pub: Publication): string {
+    const venue = pub.journal || pub.conference;
+
+    if (!venue) {
+        return String(pub.year);
+    }
+
+    const abbreviation = conferenceAbbreviations[venue];
+
+    if (!abbreviation) {
+        return `${venue} ${pub.year}`;
+    }
+
+    return `${venue} (${abbreviation} ${pub.year})`;
+}
+
 export default function SelectedPublications({ publications, title, enableOnePageMode = false }: SelectedPublicationsProps) {
     const messages = useMessages();
     const resolvedTitle = title || messages.home.selectedPublications;
@@ -57,7 +79,7 @@ export default function SelectedPublications({ publications, title, enableOnePag
                             ))}
                         </p>
                         <p className="text-sm text-neutral-600 dark:text-neutral-500 mb-2">
-                            {pub.journal || pub.conference}
+                            {formatVenue(pub)}
                         </p>
                         {pub.description && (
                             <p className="text-sm text-neutral-500 dark:text-neutral-500 line-clamp-2">

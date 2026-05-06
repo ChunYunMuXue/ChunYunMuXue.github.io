@@ -1,63 +1,55 @@
-type = "card"
+type = "awards"
 title = "Awards"
-description = "Selected Honors and awards I have received.My Full Awards list could be found in my headpage"
+description = "Selected honors and awards."
 
 [[items]]
 title = "National Scholarship"
-subtitle = "National Scholarship for Undergraduate Students"
-date = "2024, 2025"
-tags = ["National Level", "Most Prestigious", "Scholarship"]
+date = "2025"
 
 [[items]]
-title = "ICPC World Finalist"
-subtitle = "50th ICPC World Finals, Dubai"
-date = "2026.02"
-tags = ["ICPC World Final", "International", "Finalist"]
+title = "National Scholarship"
+date = "2024"
 
 [[items]]
-title = "ICPC Shanghai - Gold Medal"
-subtitle = "ICPC Asia Regional Contest, 10th Place Overall"
-date = "2025.12"
-tags = ["Gold Medal", "Regional Finalist", "Top 10"]
+title = "ICPC World Finals Qualifier (World Finalist)"
+date = "2026"
 
 [[items]]
-title = "ICPC Shenyang - Gold Medal"
-subtitle = "ICPC Asia Regional Contest"
-date = "2025.12"
-tags = ["Gold Medal", "Regional"]
+title = "ICPC Regional Contest Gold Medal (10th Place in Shanghai Division)"
+date = "2025"
 
 [[items]]
-title = "CCPC Chongqing - Gold Medal"
-subtitle = "China Collegiate Programming Contest"
-date = "2025.12"
-tags = ["Gold Medal", "CCPC"]
+title = "ICPC Regional Contest Gold Medal (Shenyang Division)"
+date = "2025"
 
 [[items]]
-title = "Codeforces Grandmaster"
-subtitle = "Codeforces Rating System, Highest Rating Level"
-date = "2025.12"
-tags = ["Grandmaster", "Codeforces", "Top Rating"]
+title = "CCPC Regional Contest Gold Medal (Chongqing Division)"
+date = "2025"
 
 [[items]]
-title = "NOIP First Prize"
-subtitle = "National Olympiad in Informatics in Provinces"
+title = "International Robot Simulation Competition Gold Medal (2nd Place)"
+date = "2025"
+
+[[items]]
+title = "International Robot Simulation Competition Gold Medal (2nd Place)"
+date = "2024"
+
+[[items]]
+title = "Huawei Ascend AI Innovation Competition National Finals Gold Medal (2nd Place)"
+date = "2025"
+
+[[items]]
+title = "ICPC Invitational Contest Gold Medal (4th Place in Xi'an Division)"
+date = "2025"
+
+[[items]]
+title = "Shaanxi Provincial College Programming Competition Champion"
+date = "2025"
+
+[[items]]
+title = "Shaanxi Provincial College Programming Competition Champion"
+date = "2024"
+
+[[items]]
+title = "National Olympiad in Informatics in Provinces First Prize"
 date = "2021"
-tags = ["National Level", "High School", "NOIP"]
-
-[[items]]
-title = "Robotics Contest - Gold Medal"
-subtitle = "International Advanced Robotics and Simulation Competition"
-date = "2024, 2025"
-tags = ["Gold Medal", "International", "Robotics"]
-
-[[items]]
-title = "Shaanxi Programming Champion"
-subtitle = "Shaanxi Provincial College Programming Contest"
-date = "2024, 2025"
-tags = ["Champion", "Provincial", "1st Place"]
-
-[[items]]
-title = "ACM MM 2025 Oral"
-subtitle = "ACM Multimedia 2025 - Oral Presentation"
-date = "2025.07"
-tags = ["Oral Presentation", "ACM MM", "Top-tier Conference"]

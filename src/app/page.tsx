@@ -5,10 +5,12 @@ import HomePageClient, { type HomePageLocaleData } from '@/components/home/HomeP
 import { Publication } from '@/types/publication';
 import { BasePageConfig, PublicationPageConfig, TextPageConfig, CardPageConfig } from '@/types/page';
 import { getRuntimeI18nConfig } from '@/lib/i18n/config';
+import type { AwardItem } from '@/components/home/Awards';
+import type { ServiceItem } from '@/components/home/Services';
 
 interface SectionConfig {
   id: string;
-  type: 'markdown' | 'publications' | 'list';
+  type: 'markdown' | 'publications' | 'list' | 'awards' | 'services';
   title?: string;
   source?: string;
   filter?: string;
@@ -16,6 +18,8 @@ interface SectionConfig {
   content?: string;
   publications?: Publication[];
   items?: NewsItem[];
+  awards?: AwardItem[];
+  services?: ServiceItem[];
 }
 
 interface NewsItem {
@@ -53,6 +57,22 @@ function processSections(sections: SectionConfig[], locale?: string): SectionCon
         return {
           ...section,
           items: newsData?.news || [],
+        };
+      }
+      case 'awards': {
+        const awardsData = section.source ? getTomlContent<{ items: AwardItem[] }>(section.source, locale) : null;
+        const awards = awardsData?.items || [];
+        return {
+          ...section,
+          awards: typeof section.limit === 'number' ? awards.slice(0, section.limit) : awards,
+        };
+      }
+      case 'services': {
+        const servicesData = section.source ? getTomlContent<{ items: ServiceItem[] }>(section.source, locale) : null;
+        const services = servicesData?.items || [];
+        return {
+          ...section,
+          services: typeof section.limit === 'number' ? services.slice(0, section.limit) : services,
         };
       }
       default:

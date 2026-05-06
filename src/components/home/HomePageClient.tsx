@@ -4,6 +4,8 @@ import Profile from '@/components/home/Profile';
 import About from '@/components/home/About';
 import SelectedPublications from '@/components/home/SelectedPublications';
 import News, { NewsItem } from '@/components/home/News';
+import Awards, { AwardItem } from '@/components/home/Awards';
+import Services, { ServiceItem } from '@/components/home/Services';
 import PublicationsList from '@/components/publications/PublicationsList';
 import TextPage from '@/components/pages/TextPage';
 import CardPage from '@/components/pages/CardPage';
@@ -14,7 +16,7 @@ import { useLocaleStore } from '@/lib/stores/localeStore';
 
 interface SectionConfig {
   id: string;
-  type: 'markdown' | 'publications' | 'list';
+  type: 'markdown' | 'publications' | 'list' | 'awards' | 'services';
   title?: string;
   source?: string;
   filter?: string;
@@ -22,6 +24,8 @@ interface SectionConfig {
   content?: string;
   publications?: Publication[];
   items?: NewsItem[];
+  awards?: AwardItem[];
+  services?: ServiceItem[];
 }
 
 type PageData =
@@ -92,6 +96,22 @@ export default function HomePageClient({ dataByLocale, defaultLocale }: HomePage
                       <News
                         key={section.id}
                         items={section.items || []}
+                        title={section.title}
+                      />
+                    );
+                  case 'awards':
+                    return (
+                      <Awards
+                        key={section.id}
+                        items={section.awards || []}
+                        title={section.title}
+                      />
+                    );
+                  case 'services':
+                    return (
+                      <Services
+                        key={section.id}
+                        items={section.services || []}
                         title={section.title}
                       />
                     );
