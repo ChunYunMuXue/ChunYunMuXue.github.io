@@ -1,0 +1,59 @@
+[browser] Detected `scroll-behavior: smooth` on the `<html>` element. To disable smooth scrolling during route transitions, add `data-scroll-behavior="smooth"` to your <html> element. Learn more: https://nextjs.org/docs/messages/missing-data-scroll-behavior
+Missing localized file "favicon.ico.toml" for locale "en", and no fallback found in content/.
+Missing file "favicon.ico.toml" in content/.
+Missing file "favicon.ico.toml" in content/.
+⨯ Failed to generate static paths for /[slug]:
+Error: Page "/[slug]/page" is missing param "/[slug]" in "generateStaticParams()", which is required with "output: export" config.
+    at ignore-listed frames
+[browser] Detected `scroll-behavior: smooth` on the `<html>` element. To disable smooth scrolling during route transitions, add `data-scroll-behavior="smooth"` to your <html> element. Learn more: https://nextjs.org/docs/messages/missing-data-scroll-behavior
+Error parsing TOML file news.toml: Error: Invalid TOML document: newlines are not allowed in strings
+
+14:  date = "2026.01"
+15:  content = "Qualified for the 50th ICPC World Finals in Hangzhou. Submitted two papers to ACL'26 and ICML'26
+                                                                                                                ^
+
+    at getTomlContent (src\lib\content.ts:60:17)
+    at <unknown> (src\app\page.tsx:56:57)
+    at Array.map (<anonymous>)
+    at processSections (src\app\page.tsx:37:19)
+    at loadPageDataForLocale (src\app\page.tsx:146:17)
+    at Home (src\app\page.tsx:168:28)
+  58 |
+  59 |   try {
+> 60 |     return parse(content) as unknown as T;
+     |                 ^
+  61 |   } catch (error) {
+  62 |     console.error(`Error parsing TOML file ${filename}:`, error);
+  63 |     return null; {
+  line: 15,
+  column: 108,
+  codeblock: '14:  date = "2026.01"\n' +
+    `15:  content = "Qualified for the 50th ICPC World Finals in Hangzhou. Submitted two papers to ACL'26 and ICML'26\n` +
+    '                                                                                                                ^\n'
+}
+Error parsing TOML file news.toml: Error: Invalid TOML document: newlines are not allowed in strings
+
+14:  date = "2026.01"
+15:  content = "Qualified for the 50th ICPC World Finals in Hangzhou. Submitted two papers to ACL'26 and ICML'26
+                                                                                                                ^
+
+    at getTomlContent (src\lib\content.ts:60:17)
+    at <unknown> (src\app\page.tsx:56:57)
+    at Array.map (<anonymous>)
+    at processSections (src\app\page.tsx:37:19)
+    at loadPageDataForLocale (src\app\page.tsx:146:17)
+    at Home (src\app\page.tsx:168:28)
+  58 |
+  59 |   try {
+> 60 |     return parse(content) as unknown as T;
+     |                 ^
+  61 |   } catch (error) {
+  62 |     console.error(`Error parsing TOML file ${filename}:`, error);
+  63 |     return null; {
+  line: 15,
+  column: 108,
+  codeblock: '14:  date = "2026.01"\n' +
+    `15:  content = "Qualified for the 50th ICPC World Finals in Hangzhou. Submitted two papers to ACL'26 and ICML'26\n` +
+    '                                                                                                                ^\n'
+}
+[browser] Detected `scroll-behavior: smooth` on the `<html>` element. To disable smooth scrolling during route transitions, add `data-scroll-behavior="smooth"` to your <html> element. Learn more: https://nextjs.org/docs/messages/missing-data-scroll-behavior

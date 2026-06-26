@@ -1,0 +1,55 @@
+1:"$Sreact.fragment"
+3:I[94519,["/_next/static/chunks/0.0o1omce5_di.js","/_next/static/chunks/15y33kmit4~s2.js","/_next/static/chunks/0eewamb49pw7k.js","/_next/static/chunks/0mx791dy13xab.js"],"ThemeProvider"]
+4:I[71889,["/_next/static/chunks/0.0o1omce5_di.js","/_next/static/chunks/15y33kmit4~s2.js","/_next/static/chunks/0eewamb49pw7k.js","/_next/static/chunks/0mx791dy13xab.js"],"LocaleProvider"]
+5:I[28127,["/_next/static/chunks/0.0o1omce5_di.js","/_next/static/chunks/15y33kmit4~s2.js","/_next/static/chunks/0eewamb49pw7k.js","/_next/static/chunks/0mx791dy13xab.js"],"default"]
+8:I[39756,["/_next/static/chunks/0.0o1omce5_di.js","/_next/static/chunks/15y33kmit4~s2.js","/_next/static/chunks/0eewamb49pw7k.js","/_next/static/chunks/0mx791dy13xab.js"],"default"]
+9:I[37457,["/_next/static/chunks/0.0o1omce5_di.js","/_next/static/chunks/15y33kmit4~s2.js","/_next/static/chunks/0eewamb49pw7k.js","/_next/static/chunks/0mx791dy13xab.js"],"default"]
+a:I[58234,["/_next/static/chunks/0.0o1omce5_di.js","/_next/static/chunks/15y33kmit4~s2.js","/_next/static/chunks/0eewamb49pw7k.js","/_next/static/chunks/0mx791dy13xab.js"],"default"]
+:HL["/_next/static/chunks/0_t6lb5.3z0s-.css","style"]
+2:T579,
+    try {
+      const cfg = {"enabled":false,"locales":["en"],"defaultLocale":"en","mode":"auto","fixedLocale":"en","persist":true,"switcher":true,"labels":{"en":"en"}};
+      const storageKey = 'locale-storage';
+      const normalize = (value) => typeof value === 'string' ? value.trim().replace('_', '-').toLowerCase() : '';
+      const matchLocale = (candidate) => {
+        const normalized = normalize(candidate);
+        if (!normalized) return null;
+        if (cfg.locales.includes(normalized)) return normalized;
+        const language = normalized.split('-')[0];
+        if (cfg.locales.includes(language)) return language;
+        return null;
+      };
+
+      let resolved = null;
+
+      if (cfg.persist) {
+        resolved = matchLocale(localStorage.getItem(storageKey));
+      }
+
+      if (!resolved) {
+        if (cfg.mode === 'fixed') {
+          resolved = cfg.fixedLocale;
+        } else {
+          resolved = matchLocale(navigator.language);
+        }
+      }
+
+      if (!resolved) {
+        resolved = cfg.defaultLocale;
+      }
+
+      const root = document.documentElement;
+      root.lang = resolved;
+      root.setAttribute('data-locale', resolved);
+
+      if (cfg.persist) {
+        localStorage.setItem(storageKey, resolved);
+      }
+    } catch (e) {
+      const root = document.documentElement;
+      root.lang = 'en';
+      root.setAttribute('data-locale', 'en');
+    }
+  0:{"rsc":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0_t6lb5.3z0s-.css","precedence":"next"}],["$","script","script-0",{"src":"/_next/static/chunks/0.0o1omce5_di.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/15y33kmit4~s2.js","async":true}],["$","script","script-2",{"src":"/_next/static/chunks/0eewamb49pw7k.js","async":true}],["$","script","script-3",{"src":"/_next/static/chunks/0mx791dy13xab.js","async":true}]],["$","html",null,{"lang":"en","className":"scroll-smooth","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"icon","href":"/favicon.svg","type":"image/svg+xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"\n              try {\n                const theme = localStorage.getItem('theme-storage');\n                const parsed = theme ? JSON.parse(theme) : null;\n                const setting = parsed?.state?.theme || 'light';\n                const prefersDark = typeof window !== 'undefined' && window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;\n                const effective = setting === 'dark' ? 'dark' : (setting === 'light' ? 'light' : (prefersDark ? 'dark' : 'light'));\n                var root = document.documentElement;\n                root.classList.add(effective);\n                root.setAttribute('data-theme', effective);\n              } catch (e) {\n                var root = document.documentElement;\n                root.classList.add('light');\n                root.setAttribute('data-theme', 'light');\n              }\n            "}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}]]}],["$","body",null,{"className":"font-sans antialiased","children":["$","$L3",null,{"children":["$","$L4",null,{"config":{"enabled":false,"locales":["en"],"defaultLocale":"en","mode":"auto","fixedLocale":"en","persist":true,"switcher":true,"labels":{"en":"en"}},"children":[["$","$L5",null,{"items":[{"title":"About","type":"page","target":"about","href":"/"},{"title":"Publications","type":"page","target":"publications","href":"/publications"}],"siteTitle":"Yin Xinxiang","enableOnePageMode":false,"i18n":"$0:rsc:props:children:1:props:children:1:props:children:props:children:props:config","itemsByLocale":{"en":[{"title":"About","type":"page","target":"about","href":"/"},{"title":"Publications","type":"page","target":"publications","href":"/publications"}]},"siteTitleByLocale":{"en":"Yin Xinxiang"}}],"$L6","$L7"]}]}]}]]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"oAVlN0lubqUyZ6TzWTyXP"}
+6:["$","main",null,{"className":"min-h-screen pt-16 lg:pt-20","children":["$","$L8",null,{"parallelRouterKey":"children","template":["$","$L9",null,{}],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]]}]}]
+7:["$","$La",null,{"lastUpdated":"April 19, 2026","lastUpdatedByLocale":{"en":"April 19, 2026"},"defaultLocale":"en"}]
