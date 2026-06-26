@@ -2,13 +2,14 @@ type = "awards"
 title = "Awards"
 description = "Selected honors and awards."
 
+
 [[items]]
-title = "National Scholarship"
-date = "2025"
+title = "SenseTime Scholarship"
+date = "2026"
 
 [[items]]
 title = "National Scholarship"
-date = "2024"
+date = "2024 & 2025"
 
 [[items]]
 title = "ICPC World Finals Qualifier (World Finalist)"
